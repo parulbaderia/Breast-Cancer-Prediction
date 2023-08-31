@@ -7,7 +7,7 @@ The dataset contains the following information for each instance:
 
 For each cell nucleus, ten real-valued features are computed, which are:
 
-#Radius: The mean distance from the center to points on the perimeter of the nucleus.\n
+#Radius: The mean distance from the center to points on the perimeter of the nucleus.
 
 #Texture: The standard deviation of gray-scale values in the nucleus.
 
